@@ -34,7 +34,7 @@ This project analyzes retail sales data from 2021–2024 and provides an interac
 
 ## Dashboard Preview
 
-![Dashboard Overview](Screenshots\dashboard_overview.png)
+![Dashboard Overview](screenshots/dashboard_overview.png)
 
 ## Run Locally
 
@@ -56,3 +56,7 @@ Cleaned and analyzed retail sales data
 Built interactive dashboard
 Generated business insights
 Developed actionable recommendations
+
+## Dashboard Preview
+
+![Dashboard](screenshots/dashboard_overview.png)
