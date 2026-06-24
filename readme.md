@@ -74,8 +74,11 @@ python -m streamlit run sales_dashboard.py
 ## Project Outcomes
 
 Cleaned and analyzed retail sales data
+
 Built interactive dashboard
+
 Generated business insights
+
 Developed actionable recommendations
 
 
