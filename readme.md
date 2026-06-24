@@ -80,3 +80,6 @@ Developed actionable recommendations
 ## Dashboard Preview
 
 ![Dashboard](screenshots/dashboard_overview.png)
+
+Author
+Fathima Nahla Noushad EV
