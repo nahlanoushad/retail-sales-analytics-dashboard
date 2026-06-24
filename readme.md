@@ -32,6 +32,26 @@ This project analyzes retail sales data from 2021–2024 and provides an interac
 - Plotly
 - Streamlit
 
+## Project Structure
+
+```text
+Retail-Sales-Analytics-Dashboard/
+│
+├── sales_dashboard.py              # Streamlit dashboard application
+├── cleaned_retail_sales.csv        # Dataset used for analysis
+├── requirements.txt               # Project dependencies
+├── readme.md                      # Project documentation
+│
+├── screenshots/
+│   ├── dashboard_overview.png     # Dashboard overview screenshot
+│   ├── region_filter.png          # Region filter example
+│   └── category_filter.png        # Category filter example
+│
+├── Retail Sales Analytics report.pdf
+└── retail_sales_analytics_ppt.pdf
+```
+
+
 ## Dashboard Preview
 
 ![Dashboard Overview](screenshots/dashboard_overview.png)
