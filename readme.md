@@ -69,6 +69,7 @@ So there is **no problem at all** with using:
 
 ```bash
 python -m streamlit run sales_dashboard.py
+```
 
 ## Project Outcomes
 
@@ -77,10 +78,7 @@ Built interactive dashboard
 Generated business insights
 Developed actionable recommendations
 
-## Dashboard Preview
 
-![Dashboard](screenshots/dashboard_overview.png)
-```
 ---
 
 ## Author
