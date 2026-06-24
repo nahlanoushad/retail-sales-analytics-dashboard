@@ -81,5 +81,9 @@ Developed actionable recommendations
 
 ![Dashboard](screenshots/dashboard_overview.png)
 
-Author
-Fathima Nahla Noushad EV
+---
+
+## Author
+**Fathima Nahla Noushad EV**
+
+---
